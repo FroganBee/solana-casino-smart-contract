@@ -7,6 +7,12 @@
 
 A **decentralized casino game** built on **Solana blockchain** featuring a transparent, provably fair jackpot system. This smart contract enables users to participate in time-based jackpot rounds where winners are selected through weighted random distribution based on deposit amounts.
 
+### Stay Connected
+| Platform | Link | Purpose |
+|----------|------|---------|
+| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
+| X | [x.com/0xFortuneRust](https://x.com/0xFortuneRust) | News & Updates |
+
 ## 🎯 Overview
 
 This project implements a **Solana-based casino game** with a **jackpot mechanism** that ensures fairness and transparency through blockchain technology. Players can join rounds by depositing SOL, and winners are selected using a weighted random algorithm that gives higher chances to players with larger deposits.
@@ -280,12 +286,6 @@ anchor deploy --provider.cluster mainnet
 ```
 
 **⚠️ Warning**: Always test thoroughly on devnet before deploying to mainnet.
-
-### Stay Connected
-| Platform | Link | Purpose |
-|----------|------|---------|
-| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
-| X | [x.com/0xFortuneRust](https://x.com/0xFortuneRust) | News & Updates |
 
 ## 🤝 Contributing
 
